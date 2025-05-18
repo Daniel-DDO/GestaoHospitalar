@@ -65,7 +65,7 @@ Além disso, o SGH deve contemplar:
 - **REQ15**: Tabela de movimentações de estoque (entrada, saída, ajustes).  
 - **REQ16**: Relacionamento entre prescrições e saída de medicamentos por paciente.
 
-### 📊 Relatórios e Indicadores
+### Relatórios e Indicadores
 
 - **REQ17**: Consultas SQL para:
   - Atendimentos por especialidade/médico
