@@ -8,7 +8,7 @@ O **Sistema de Gestão Hospitalar (SGH)** será uma aplicação voltada para o g
 
 - Pacientes
 - Médicos
-- Atendimentos
+- Atendimentos (consultas)
 - Internações
 - Exames
 - Medicamentos
