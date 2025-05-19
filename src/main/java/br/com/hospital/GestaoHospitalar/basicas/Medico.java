@@ -11,6 +11,7 @@ import java.time.LocalDate;
 public class Medico extends Pessoa {
 
     private String crm;
+    //private List<EnumEspecialidade> especialidade
 
     public Medico() {
 
