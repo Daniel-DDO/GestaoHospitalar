@@ -23,7 +23,7 @@ public enum EnumEspecialidade {
     Neurologia("Neurologia"),
     Nutrologia("Nutrologia"),
     Oftalmologia("Oftalmologia"),
-    OncologiaClinica("Oncologia Clínica")
+    OncologiaClinica("Oncologia Clínica"),
     Otorrinolaringologia("Otorrinolaringologia"),
     Patologia("Patologia"),
     Pneumologia("Pneumologia"),
