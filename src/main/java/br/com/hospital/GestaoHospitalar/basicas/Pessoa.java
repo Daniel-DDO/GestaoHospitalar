@@ -14,18 +14,20 @@ public abstract class Pessoa {
     private LocalDate data_nascimento;
     private LocalDate data_cadastro;
     private String email;
-    private String sexo;
+    private String sexo; //Enum
+    private String nacionalidade;
 
     public Pessoa() {
 
     }
 
-    public Pessoa(String nome, String cpf, LocalDate data_nascimento, LocalDate data_cadastro, String email, String sexo) {
+    public Pessoa(String nome, String cpf, LocalDate data_nascimento, LocalDate data_cadastro, String email, String sexo, String nacionalidade) {
         this.nome = nome;
         this.cpf = cpf;
         this.data_nascimento = data_nascimento;
         this.data_cadastro = data_cadastro;
         this.email = email;
         this.sexo = sexo;
+        this.nacionalidade = nacionalidade;
     }
 }
