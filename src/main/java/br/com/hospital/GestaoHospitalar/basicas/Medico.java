@@ -13,9 +13,7 @@ public class Medico extends Pessoa {
 
     private String crm;
     private List<EnumEspecialidade> especialidades;
-    private String instituicaoDeFormacao;
-    private List<String> idiomas;
-    
+
     public Medico() {
 
     }
