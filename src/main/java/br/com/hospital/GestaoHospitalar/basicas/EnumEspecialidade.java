@@ -1,5 +1,8 @@
 package br.com.hospital.GestaoHospitalar.basicas;
 
+import lombok.Getter;
+
+@Getter
 public enum EnumEspecialidade {
   
     Cardiologia("Cardiologia"),
@@ -41,10 +44,6 @@ public enum EnumEspecialidade {
 
     EnumEspecialidade(String descricao) {
         this.descricao = descricao;
-    }
-
-    public String getDescricao() {
-        return descricao;
     }
 
 }
